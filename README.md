@@ -9,6 +9,7 @@ In 2012, we needed a way to display a graph that had the following requirements:
 After several attempts to build out a graph, I went with something a little different... a fanned out deck of cards.  
 
 ![circulargraph](https://user-images.githubusercontent.com/13650488/190296775-45ea3f80-95b3-4631-89fe-3cd765964924.gif)
+[Click for Live Demo](https://gregfrazier.github.io/circular-graph-visualizer/visualize.html)
 
 This visualizer was used for a few years, before I built a new visualizer that displayed a graph in a more traditional way along with the aesthetic of looking like it was drawn on a chalkboard.
   
